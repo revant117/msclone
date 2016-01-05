@@ -1,0 +1,39 @@
+why use head -> SEO , improve the scearch quality , add a tittle ,
+<meta> tags 
+
+normalize.css 
+
+
+
+<div class="b1">
+		<ul class = "navigation">
+			<li><a href = '#'> Home</a></li>
+			<li><a href = '#'> Something</a></li>
+		</ul>	
+	</div>
+
+	<div class = "cb1">
+		<div class = "bc1">bc1</div>
+		<div class = "bc2">bc2</div>
+	</div>
+	<div class = "clearfloat"></div>
+
+
+	<div class = "b2">
+		
+		<img src = './images/img.jpg' class = 'img'>
+		<!-- <div class = "bc1"></div>
+		<div class = "bc2"></div> -->
+	</div>
+
+	<div class = "smallbox">
+		small box
+
+		<!-- <div class = "bc1"></div>
+		<div class = "bc2"></div> -->
+	</div>
+	<div class = "footerbox">
+		footer box
+		<!-- <div class = "bc1"></div>
+		<div class = "bc2"></div> -->
+	</div>
