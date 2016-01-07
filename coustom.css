@@ -1,3 +1,70 @@
+.big_image{
+	background-image : url("https://c.s-microsoft.com/en-us/CMSImages/Win_AppsStoreBG_1920x580_EN_US.jpg?version=37be4927-f656-5b22-0097-fc565095b02c");
+     width: 100% !important;
+     height : 380px;
+     background-position: center center;
+
+     
+}
+
+/*.big_text{
+	margin: 10px;
+	text-align: center;
+}*/
+
+.thmb{
+	margin-top: 5px;
+	text-align: center;
+}
+
+.some_text{
+	margin-left: 100px;
+	padding-top: 50px;
+}
+
+.foot{
+	margin-top: 10px;
+}
+
+.small_img img{
+
+	height:20px;
+	width : 20px;
+
+}
+.like{
+	margin-top:auto;
+}
+.fblike{
+	margin-top:10px;
+	height : 70px;
+}
+
+
+
+li{
+	list-style-type: none;
+	margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*/*/*/*
 .div1 {
     height: 300px;
